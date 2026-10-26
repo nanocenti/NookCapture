@@ -6,7 +6,8 @@
 
 <p align="center"><img src="docs/control.png" width="420" alt="Nook Capture"></p>
 
-<p align="center"><a href="https://github.com/nanocenti/NookCapture/releases/latest"><b>⬇︎ Download the latest version</b></a></p>
+<p align="center"><a href="https://github.com/nanocenti/NookCapture/releases/latest/download/NookCapture.dmg"><img src="https://img.shields.io/badge/Download_for_macOS-.dmg-2f6fde?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS (.dmg)"></a></p>
+<p align="center"><sub>Free · macOS 13+ · Apple Silicon · <a href="https://github.com/nanocenti/NookCapture/releases">All versions</a></sub></p>
 
 <p align="center"><img src="docs/scroll-capture.png" width="880" alt="Selecting only the middle pane of a page with three scrolling areas, and the resulting tall image"></p>
 <p align="center"><sub>A page with three scrolling areas: select only the middle one, and Nook Capture scrolls and stitches just that pane.</sub></p>
@@ -35,7 +36,7 @@ The rest of the window stays exactly where it is.
 - English · 한국어 · 中文 · 日本語
 
 ### Install
-1. Download `NookCapture.dmg` from [Releases](https://github.com/nanocenti/NookCapture/releases/latest).
+1. Download [`NookCapture.dmg`](https://github.com/nanocenti/NookCapture/releases/latest/download/NookCapture.dmg).
 2. Open the dmg and drag **Nook Capture** into **Applications**.
 3. **One-time step on first launch.** Nook Capture is free and not notarized by Apple, so macOS blocks it the first time.
    1. Open Nook Capture from Applications. When the warning appears, click **Done**.
@@ -91,7 +92,7 @@ Nook Capture는 **원하는 부분만 드래그로 선택하면 그 영역만 �
 - English · 한국어 · 中文 · 日本語 (처음 실행하면 영어, 설정에서 바꿀 수 있습니다)
 
 ### 설치
-1. [Releases](https://github.com/nanocenti/NookCapture/releases/latest)에서 `NookCapture.dmg`를 받습니다.
+1. [`NookCapture.dmg`](https://github.com/nanocenti/NookCapture/releases/latest/download/NookCapture.dmg)를 받습니다.
 2. dmg를 열고 **Nook Capture**를 **Applications** 폴더로 끌어 놓습니다.
 3. **처음 실행할 때 한 번** 아래 과정이 필요합니다. 무료 배포라 Apple 공증을 받지 않아 macOS가 처음에는 실행을 막습니다.
    1. Applications에서 Nook Capture를 엽니다. 경고가 뜨면 **완료**를 누릅니다.
@@ -147,7 +148,7 @@ Nook Capture는 **무료**로 사용할 수 있습니다. 소스 코드는 공�
 - English · 한국어 · 中文 · 日本語（首次启动为英文，可在设置中更改）
 
 ### 安装
-1. 从 [Releases](https://github.com/nanocenti/NookCapture/releases/latest) 下载 `NookCapture.dmg`。
+1. 下载 [`NookCapture.dmg`](https://github.com/nanocenti/NookCapture/releases/latest/download/NookCapture.dmg)。
 2. 打开 dmg，把 **Nook Capture** 拖到 **应用程序 (Applications)** 文件夹。
 3. **首次启动时需要操作一次。** Nook Capture 免费发布，未经过 Apple 公证，因此 macOS 第一次会阻止打开。
    1. 在“应用程序”中打开 Nook Capture，出现警告时点击 **完成**。
@@ -203,7 +204,7 @@ Nook Capture なら、**必要な部分だけをドラッグで選ぶと、そ�
 - English · 한국어 · 中文 · 日本語（初回起動は英語、設定で変更できます）
 
 ### インストール
-1. [Releases](https://github.com/nanocenti/NookCapture/releases/latest) から `NookCapture.dmg` をダウンロードします。
+1. [`NookCapture.dmg`](https://github.com/nanocenti/NookCapture/releases/latest/download/NookCapture.dmg) をダウンロードします。
 2. dmg を開き、**Nook Capture** を **アプリケーション (Applications)** フォルダへドラッグします。
 3. **初回起動時に一度だけ**次の操作が必要です。Nook Capture は無料配布で Apple の公証を受けていないため、macOS が最初は起動をブロックします。
    1. アプリケーションから Nook Capture を開き、警告が出たら **完了** をクリックします。
