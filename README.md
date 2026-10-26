@@ -8,6 +8,12 @@
 
 <p align="center"><a href="https://github.com/nanocenti/NookCapture/releases/latest"><b>⬇︎ Download the latest version</b></a></p>
 
+<p align="center"><img src="docs/scroll-capture.png" width="880" alt="Selecting only the middle pane of a page with three scrolling areas, and the resulting tall image"></p>
+<p align="center"><sub>A page with three scrolling areas: select only the middle one, and Nook Capture scrolls and stitches just that pane.</sub></p>
+
+<p align="center"><img src="docs/editing.png" width="440" alt="Mosaic and pen editing in the preview"></p>
+<p align="center"><sub>Hide part of a photo with mosaic and jot a quick note with the pen before saving.</sub></p>
+
 ---
 
 ## English
