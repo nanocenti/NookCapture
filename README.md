@@ -15,6 +15,9 @@
 <p align="center"><img src="docs/editing.png" width="440" alt="Mosaic and pen editing in the preview"></p>
 <p align="center"><sub>Hide part of a photo with mosaic and jot a quick note with the pen before saving.</sub></p>
 
+<p align="center"><img src="docs/cut-out.png" width="880" alt="Cut Out: the right photo is removed and the left photo is being dragged to the center, leaving only the white background behind"></p>
+<p align="center"><sub>Cut Out: remove the right photo, then drag the left one to the center. The empty spots are filled with the page's own background.</sub></p>
+
 ---
 
 ## English
@@ -30,7 +33,8 @@ The rest of the window stays exactly where it is.
   - Fixed parts inside the selection, such as title bars and input boxes, appear only once.
   - Tested with KakaoTalk, Telegram, and browsers such as Safari and Whale.
 - **Region Capture** (⌘⇧2): capture a dragged area as a single image, with a magnifier for pixel-precise selection.
-- **Preview editing**: crop, draw (pen, rectangle, circle), mosaic, undo (⌘Z)
+- **Preview editing**: crop, draw (pen, rectangle, circle), mosaic, cut out, undo (⌘Z)
+  - **Cut Out**: select anything in the capture, then drag it somewhere else or remove it with the trash button (⌫). The spot it leaves is filled with the surrounding background color, so the content disappears and the background stays.
 - **Save & copy**: PNG / JPEG / HEIC, a fixed save folder or ask every time, copy to clipboard
 - Lives in the menu bar (no Dock icon), optional launch at login
 - English · 한국어 · 中文 · 日本語
@@ -86,7 +90,8 @@ Nook Capture는 **원하는 부분만 드래그로 선택하면 그 영역만 �
   - 선택 안의 제목줄·입력창처럼 고정된 부분은 한 번만 들어갑니다.
   - 카카오톡, 텔레그램, Safari·Whale 같은 브라우저에서 확인했습니다.
 - **영역 지정 캡처** (⌘⇧2): 드래그한 영역을 한 장으로 찍습니다. 확대경으로 픽셀 단위로 맞출 수 있습니다.
-- **미리보기 편집**: 자르기, 그리기(펜·사각형·원), 모자이크, 실행 취소(⌘Z)
+- **미리보기 편집**: 자르기, 그리기(펜·사각형·원), 모자이크, 오려내기, 실행 취소(⌘Z)
+  - **오려내기**: 캡처 안의 원하는 부분을 골라 다른 곳으로 끌어 옮기거나, 휴지통(⌫)으로 지웁니다. 빈자리는 주변 바탕색으로 채워져, 내용만 빠지고 바탕은 그대로 남습니다.
 - **저장·복사**: PNG / JPEG / HEIC, 저장 위치 지정 또는 매번 묻기, 클립보드로 복사
 - 메뉴바에 상주(Dock 아이콘 없음), 로그인 시 자동 실행
 - English · 한국어 · 中文 · 日本語 (처음 실행하면 영어, 설정에서 바꿀 수 있습니다)
@@ -142,7 +147,8 @@ Nook Capture는 **무료**로 사용할 수 있습니다. 소스 코드는 공�
   - 选区内的标题栏、输入框等固定部分只会出现一次。
   - 已在 KakaoTalk、Telegram 以及 Safari、Whale 等浏览器中测试。
 - **区域截图** (⌘⇧2)：把拖动选中的区域截成一张图，可用放大镜精确到像素。
-- **预览编辑**：裁剪、绘制（画笔、矩形、圆形）、马赛克、撤销 (⌘Z)
+- **预览编辑**：裁剪、绘制（画笔、矩形、圆形）、马赛克、剪除、撤销 (⌘Z)
+  - **剪除**：选中截图中的任意部分，拖到别处移动，或点击垃圾桶 (⌫) 删除。空出的位置会用周围的背景色填充，只去掉内容，背景保持不变。
 - **保存与复制**：PNG / JPEG / HEIC，可指定保存位置或每次询问，可复制到剪贴板
 - 常驻菜单栏（无 Dock 图标），可设置登录时自动启动
 - English · 한국어 · 中文 · 日本語（首次启动为英文，可在设置中更改）
@@ -198,7 +204,8 @@ Nook Capture なら、**必要な部分だけをドラッグで選ぶと、そ�
   - 選択範囲内のタイトルバーや入力欄などの固定部分は1回だけ入ります。
   - KakaoTalk、Telegram、Safari・Whale などのブラウザで確認済みです。
 - **範囲指定キャプチャ** (⌘⇧2)：ドラッグした範囲を1枚で撮影します。ルーペでピクセル単位まで合わせられます。
-- **プレビュー編集**：切り取り、描画（ペン・四角・円）、モザイク、取り消し (⌘Z)
+- **プレビュー編集**：切り取り、描画（ペン・四角・円）、モザイク、切り抜き、取り消し (⌘Z)
+  - **切り抜き**：キャプチャ内の好きな部分を選び、ドラッグで別の場所へ移動するか、ゴミ箱 (⌫) で消します。空いた所は周りの背景色で埋まるので、内容だけが消えて背景はそのまま残ります。
 - **保存・コピー**：PNG / JPEG / HEIC、保存先の指定または毎回確認、クリップボードへコピー
 - メニューバーに常駐（Dock アイコンなし）、ログイン時に自動起動
 - English · 한국어 · 中文 · 日本語（初回起動は英語、設定で変更できます）
